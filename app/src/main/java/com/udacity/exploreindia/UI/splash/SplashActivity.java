@@ -30,6 +30,7 @@ public class SplashActivity extends BaseActivity< SplashContract.Presenter,Activ
 
     }
 
+    // moves to the next screen
     @Override
     public void moveToNextSScreen() {
 
